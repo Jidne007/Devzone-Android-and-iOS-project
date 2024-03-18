@@ -1,0 +1,36 @@
+*{margin: 0;padding: 0;outline: 0;}
+body{margin: 0;}
+
+/*.container{width: 1300px;}*/
+img{max-width: 100%;}
+
+header {
+	background: #6AE867;
+}
+.ios{}
+.ios img {
+	width: 1500px;
+	padding: 40px 220px;
+}
+
+
+footer {
+	margin-top: 50px;
+	text-align: center;
+}
+.android{}
+.android h2 {
+	font-size: 36px;
+	font-family: arial;
+	color: #6AE867E8;
+	margin-bottom: 20px;
+}
+.android p {
+	font-size: 20px;
+	font-family: arial;
+	color: #6AE867;
+}
+.android img {
+	width: 1500px;
+	padding: 117px 0px 34px 0;
+}
